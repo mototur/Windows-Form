@@ -1,0 +1,17 @@
+C:\Users\Lucia Sandoval\OneDrive\Desktop\Repaso Lu\Combustible\Combustible\bin\Debug\net8.0-windows\Combustible.exe
+C:\Users\Lucia Sandoval\OneDrive\Desktop\Repaso Lu\Combustible\Combustible\bin\Debug\net8.0-windows\Combustible.deps.json
+C:\Users\Lucia Sandoval\OneDrive\Desktop\Repaso Lu\Combustible\Combustible\bin\Debug\net8.0-windows\Combustible.runtimeconfig.json
+C:\Users\Lucia Sandoval\OneDrive\Desktop\Repaso Lu\Combustible\Combustible\bin\Debug\net8.0-windows\Combustible.dll
+C:\Users\Lucia Sandoval\OneDrive\Desktop\Repaso Lu\Combustible\Combustible\bin\Debug\net8.0-windows\Combustible.pdb
+C:\Users\Lucia Sandoval\OneDrive\Desktop\Repaso Lu\Combustible\Combustible\obj\Debug\net8.0-windows\Combustible.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucia Sandoval\OneDrive\Desktop\Repaso Lu\Combustible\Combustible\obj\Debug\net8.0-windows\Combustible.AssemblyInfoInputs.cache
+C:\Users\Lucia Sandoval\OneDrive\Desktop\Repaso Lu\Combustible\Combustible\obj\Debug\net8.0-windows\Combustible.AssemblyInfo.cs
+C:\Users\Lucia Sandoval\OneDrive\Desktop\Repaso Lu\Combustible\Combustible\obj\Debug\net8.0-windows\Combustible.csproj.CoreCompileInputs.cache
+C:\Users\Lucia Sandoval\OneDrive\Desktop\Repaso Lu\Combustible\Combustible\obj\Debug\net8.0-windows\Combustible.sourcelink.json
+C:\Users\Lucia Sandoval\OneDrive\Desktop\Repaso Lu\Combustible\Combustible\obj\Debug\net8.0-windows\Combustible.dll
+C:\Users\Lucia Sandoval\OneDrive\Desktop\Repaso Lu\Combustible\Combustible\obj\Debug\net8.0-windows\refint\Combustible.dll
+C:\Users\Lucia Sandoval\OneDrive\Desktop\Repaso Lu\Combustible\Combustible\obj\Debug\net8.0-windows\Combustible.pdb
+C:\Users\Lucia Sandoval\OneDrive\Desktop\Repaso Lu\Combustible\Combustible\obj\Debug\net8.0-windows\Combustible.genruntimeconfig.cache
+C:\Users\Lucia Sandoval\OneDrive\Desktop\Repaso Lu\Combustible\Combustible\obj\Debug\net8.0-windows\ref\Combustible.dll
+C:\Users\Lucia Sandoval\OneDrive\Desktop\Repaso Lu\Combustible\Combustible\obj\Debug\net8.0-windows\Combustible.Form1.resources
+C:\Users\Lucia Sandoval\OneDrive\Desktop\Repaso Lu\Combustible\Combustible\obj\Debug\net8.0-windows\Combustible.csproj.GenerateResource.cache

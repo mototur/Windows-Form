@@ -1,0 +1,16 @@
+C:\Users\Lucia Sandoval\OneDrive\Desktop\Windows Form 1\Calculadora de Viajes\Calculadora de Viajes\bin\Debug\net8.0-windows\Calculadora de Viajes.exe
+C:\Users\Lucia Sandoval\OneDrive\Desktop\Windows Form 1\Calculadora de Viajes\Calculadora de Viajes\bin\Debug\net8.0-windows\Calculadora de Viajes.deps.json
+C:\Users\Lucia Sandoval\OneDrive\Desktop\Windows Form 1\Calculadora de Viajes\Calculadora de Viajes\bin\Debug\net8.0-windows\Calculadora de Viajes.runtimeconfig.json
+C:\Users\Lucia Sandoval\OneDrive\Desktop\Windows Form 1\Calculadora de Viajes\Calculadora de Viajes\bin\Debug\net8.0-windows\Calculadora de Viajes.dll
+C:\Users\Lucia Sandoval\OneDrive\Desktop\Windows Form 1\Calculadora de Viajes\Calculadora de Viajes\bin\Debug\net8.0-windows\Calculadora de Viajes.pdb
+C:\Users\Lucia Sandoval\OneDrive\Desktop\Windows Form 1\Calculadora de Viajes\Calculadora de Viajes\obj\Debug\net8.0-windows\Calculadora_de_Viajes.Form1.resources
+C:\Users\Lucia Sandoval\OneDrive\Desktop\Windows Form 1\Calculadora de Viajes\Calculadora de Viajes\obj\Debug\net8.0-windows\Calculadora de Viajes.csproj.GenerateResource.cache
+C:\Users\Lucia Sandoval\OneDrive\Desktop\Windows Form 1\Calculadora de Viajes\Calculadora de Viajes\obj\Debug\net8.0-windows\Calculadora de Viajes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lucia Sandoval\OneDrive\Desktop\Windows Form 1\Calculadora de Viajes\Calculadora de Viajes\obj\Debug\net8.0-windows\Calculadora de Viajes.AssemblyInfoInputs.cache
+C:\Users\Lucia Sandoval\OneDrive\Desktop\Windows Form 1\Calculadora de Viajes\Calculadora de Viajes\obj\Debug\net8.0-windows\Calculadora de Viajes.AssemblyInfo.cs
+C:\Users\Lucia Sandoval\OneDrive\Desktop\Windows Form 1\Calculadora de Viajes\Calculadora de Viajes\obj\Debug\net8.0-windows\Calculadora de Viajes.csproj.CoreCompileInputs.cache
+C:\Users\Lucia Sandoval\OneDrive\Desktop\Windows Form 1\Calculadora de Viajes\Calculadora de Viajes\obj\Debug\net8.0-windows\Calculadora de Viajes.dll
+C:\Users\Lucia Sandoval\OneDrive\Desktop\Windows Form 1\Calculadora de Viajes\Calculadora de Viajes\obj\Debug\net8.0-windows\refint\Calculadora de Viajes.dll
+C:\Users\Lucia Sandoval\OneDrive\Desktop\Windows Form 1\Calculadora de Viajes\Calculadora de Viajes\obj\Debug\net8.0-windows\Calculadora de Viajes.pdb
+C:\Users\Lucia Sandoval\OneDrive\Desktop\Windows Form 1\Calculadora de Viajes\Calculadora de Viajes\obj\Debug\net8.0-windows\Calculadora de Viajes.genruntimeconfig.cache
+C:\Users\Lucia Sandoval\OneDrive\Desktop\Windows Form 1\Calculadora de Viajes\Calculadora de Viajes\obj\Debug\net8.0-windows\ref\Calculadora de Viajes.dll
