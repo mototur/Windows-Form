@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Calculadora de Viajes")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d620150178650cae7d48577a532c04d3d22ea93b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Calculadora de Viajes")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Calculadora de Viajes")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

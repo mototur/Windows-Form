@@ -14,3 +14,4 @@ C:\Users\Lucia Sandoval\OneDrive\Desktop\Windows Form 1\Calculadora de Viajes\Ca
 C:\Users\Lucia Sandoval\OneDrive\Desktop\Windows Form 1\Calculadora de Viajes\Calculadora de Viajes\obj\Debug\net8.0-windows\Calculadora de Viajes.pdb
 C:\Users\Lucia Sandoval\OneDrive\Desktop\Windows Form 1\Calculadora de Viajes\Calculadora de Viajes\obj\Debug\net8.0-windows\Calculadora de Viajes.genruntimeconfig.cache
 C:\Users\Lucia Sandoval\OneDrive\Desktop\Windows Form 1\Calculadora de Viajes\Calculadora de Viajes\obj\Debug\net8.0-windows\ref\Calculadora de Viajes.dll
+C:\Users\Lucia Sandoval\OneDrive\Desktop\Windows Form 1\Calculadora de Viajes\Calculadora de Viajes\obj\Debug\net8.0-windows\Calculadora de Viajes.sourcelink.json

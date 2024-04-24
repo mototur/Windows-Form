@@ -20,7 +20,6 @@ namespace Calculadora_de_Viajes
 
             double tiempocalculado = origen / velocidad;
 
-            textBox1.Text = tiempocalculado.ToString();
-        }
+            MessageBox.Show("Tiempo estimado del viaje: " + tiempocalculado.ToString() + " horas", "Resultado" );      }
     }
 }
